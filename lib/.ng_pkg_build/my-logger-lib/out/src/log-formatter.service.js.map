@@ -1,0 +1,1 @@
+{"version":3,"file":"log-formatter.service.js","sourceRoot":"","sources":["log-formatter.service.ts"],"names":[],"mappings":";;;;;;;AAEA,MAAM;CAEL","sourcesContent":["\n\nexport abstract class LogFormatterService {\n    abstract format(message: string): string;\n}"]}
